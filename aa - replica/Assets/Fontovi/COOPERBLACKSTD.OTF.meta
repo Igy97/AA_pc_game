@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 34226da3cfd4b8b42ac04cc71041f1df
+timeCreated: 1499975438
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cooper Std
+  fontNames:
+  - Cooper Std
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
